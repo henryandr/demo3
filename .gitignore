@@ -1,0 +1,16 @@
+#Agrega todos los tipos de archivos que se van a ignorar
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*~
+*.bak
+*.cache
+*.log
+*.out
+*.pid
+*.vscode
+*.env
+*.db
+*.sqlite3
+*.DS_Store
