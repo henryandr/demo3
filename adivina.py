@@ -18,7 +18,7 @@ def menu() -> str:
 def menu_help() -> str:
     print("If you choose a help, you will loose 2 attempts")
     print("1. Lower or higher\n2. Exit")
-    option = input("Choose your option >> ")
+    option = input("Choose your option .. ")
     return option
 
 #Función que imprime los intentos restantes y los números que ya se han ingresado
